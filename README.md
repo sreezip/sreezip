@@ -1,36 +1,16 @@
-# Hi there, I'm Sreezip 👋
-
-Welcome to my GitHub profile!  
-I'm a **Designer**, a **Developer specializing in Prompt Engineering**, and a **Student** who loves to push boundaries and experiment with new ideas.
-
----
-
-## 🚀 About Me
-
-- 🎨 **Designer**: I bring creativity into everything I build, from web interfaces to AI-driven interactions.
-- 🤖 **Prompt Engineer**: Crafting prompts for AI models is my playground—making machines understand us better!
-- 📚 **Student**: Always learning, forever curious.
-
----
-
-## 🛠️ Skills
-
-- **Python**: Automations, data wrangling, AI experiments
-- **JavaScript**: Web magic, interactive UIs, bots
-- **Rust**: High-performance systems, safe and fast code
-
----
-
-## 🌟 Projects
-
-Check out some cool things I’ve built:
-- [Website](https://github.com/sreezip/Website) – My digital creative portfolio
-- [Auto-Banner](https://github.com/sreezip/Auto-Banner) – Automate your banners with style
-
----
-
-_“The best way to predict the future is to invent it.”_
-
----
-
-![Sreezip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreezip&show_icons=true&theme=radical)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;sreeman&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+</p>
+<p align="center">
+    <a href="https://leetcode.com/sreezip/"><img width="48%" src="https://leetcode.card.workers.dev/sreezip?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/sreezip"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreezip&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
